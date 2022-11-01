@@ -33,5 +33,3 @@ function createBoxes(amount) {
     boxes.insertAdjacentHTML("beforeend", `<p>Wpisz liczbę od 1 do 100</p>`);
   }
 }
-
-//NIESKOŃCZONE//

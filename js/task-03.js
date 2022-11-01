@@ -21,9 +21,3 @@ list.insertAdjacentHTML("afterbegin", markup);
 
 console.log(list);
 console.log(markup);
-
-list.style.display = "flex";
-list.style.flexDirection = "row";
-list.style.flexWrap = "wrap";
-list.style.justifyContent = "center";
-list.style.gap = "1em";

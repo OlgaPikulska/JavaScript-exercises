@@ -12,5 +12,5 @@ const changeColor = () => {
   body.style.backgroundColor = getRandomHexColor();
   nameColor.textContent = getRandomHexColor();
 };
-
+window.addEventListener("load", changeColor);
 btn.addEventListener("click", changeColor);
