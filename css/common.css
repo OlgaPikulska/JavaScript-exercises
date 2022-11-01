@@ -23,9 +23,10 @@ button {
   cursor: pointer;
 }
 
-#text {
+/* #text {
   font-size: 56px;
-}
+} */
+/* na moim komputerze na lokalnym serwerze taki zapis działał, na stronie z githuba już nie działał */
 
 .gallery {
   display: flex;
